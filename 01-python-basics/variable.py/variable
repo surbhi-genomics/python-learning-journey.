@@ -1,0 +1,6 @@
+name=input("enter your name")
+age=int(input("enter your age"))
+Hobby=input("enter your hobby")
+print(name)
+print(age)
+print(Hobby)
