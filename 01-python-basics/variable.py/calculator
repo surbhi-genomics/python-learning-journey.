@@ -12,8 +12,9 @@ print(e)
 print(f)
 print(g)
 print(h)
-                                                        second code
+                                                        second code ( Multiplication calculator)
 
+#Ask the user for two numbers and do their algebric operation)
 a=int(input("enter first number"))
 b=int(input("enter second number"))
 print(a+b)
@@ -22,3 +23,22 @@ print(a*b)
 print(a**b)
 print(a/b)
 print(a//b)
+                                                         Third code (Square calculator)
+#Ask the user to enter a number and calculate its square.
+a=int(input("enter a number"))
+print(a**2)
+                                                         fourth code
+
+"""Make a program that asks for:
+- Student name
+- Marks in Physics
+- Marks in Chemistry
+- Marks in Mathematics
+Calculate and display the total marks"""
+name=(input("enter your name"))
+physics  =int(input("enter your physics marks"))
+chem =int(input("enter your chem marks"))
+maths =int(input("enter your maths marks"))
+total=(physics  + chem + maths )
+print(name)
+print(total)
