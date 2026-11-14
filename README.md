@@ -1,6 +1,4 @@
-# python-learning-journey.
-My Python practice, exercises and projects while learning Python.
-# Python Learning Journey 🐍
+# python-learning-journey 🐍
 
 Welcome to my Python learning journey!
 
