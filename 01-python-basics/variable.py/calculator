@@ -12,3 +12,13 @@ print(e)
 print(f)
 print(g)
 print(h)
+                                                        second code
+
+a=int(input("enter first number"))
+b=int(input("enter second number"))
+print(a+b)
+print(a-b)
+print(a*b)
+print(a**b)
+print(a/b)
+print(a//b)
