@@ -1,0 +1,44 @@
+rks = int(input("Enter your marks: "))
+
+if marks >= 90 and marks <= 100:
+    print("Grade A")
+
+elif marks >= 75 and marks < 90:
+    print("Grade B")
+
+elif marks >= 60 and marks < 75:
+    print("Grade C")
+
+elif marks >= 35 and marks < 60:
+    print("Grade D")
+
+elif marks < 35 and marks >= 0:
+    print("Fail")
+
+else:
+    print("Invalid marks"
+                                         2nd code
+a = int(input("Enter first number: "))
+b = int(input("Enter second number: "))
+
+c = input("Enter operator (+, -, *, /): ")
+
+if c == "+":
+    result = a + b
+
+elif c == "-":
+    result = a - b
+
+elif c == "*":
+    result = a * b
+
+elif c == "/":
+    if b != 0:
+        result = a / b
+    else:
+        result = "Cannot divide by zero"
+
+else:
+    result = "Invalid operator"
+
+print("Result:", result)
