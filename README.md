@@ -26,5 +26,23 @@ I am a B.Tech Bioinformatics student currently learning Python through Harvard's
 ## Progress
 
 Currently learning: Python fundamentals and loops.
+01_basics/
+│   ├── variables.py
+│   ├── user_input.py
+│   └── calculator.py
+│
+├── 02_conditions/
+│   ├── grade_calculator.py
+│   └── even_odd.py
+│
+├── 03_loops/
+│   ├── print_name.py
+│   ├── even_numbers.py
+│   ├── multiplication_table.py
+│   ├── countdown.py
+│   └── sum_of_numbers.py
+│
+└── mini_projects/
+    └── student_marks_calculator.py
 
 This repository documents my progress, practice and projects as I learn.
