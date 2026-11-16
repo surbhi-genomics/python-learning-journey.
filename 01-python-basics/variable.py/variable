@@ -4,3 +4,6 @@ Hobby=input("enter your hobby")
 print("Hellow",name)
 print(age)
 print(Hobby)
+max and min value ...
+a=(1,9,5,8)
+print(min(a))
