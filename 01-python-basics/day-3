@@ -1,0 +1,49 @@
+adius = 5
+pi = 3.14
+area_of_circle = ( pi* radius **2)
+print(area_of_circle)
+  ___________________________________________________________________________________________________________________________
+L = 10 
+B = 10
+area_of_rectangle = (L * B)
+print(area_of_rectangle)
+________________________________________________________________________________________________________________________________
+  print(3 != 2)    # True, because 3 is not equal to 2
+  _________________________________________________________________________________________________________________________
+  age=("write your age")
+  print(type (age))
+  _______________________________________________________________________________________________
+  height = (1 + 9j)
+print(type(height))
+  _________________________________________________________________________________________________________________
+  base = int(input("enter base"))
+height = int(input("enter height"))
+area_of_triangle = 0.5 * base * height
+print(area_of_triangle)
+  ______________________________________________________________
+  # Calculate slope, x-intercept and y-intercept
+
+m = 2
+c = -2
+
+slope = m
+x_intercept = -c / m
+y_intercept = c
+
+print("Slope =", slope)
+print("X-intercept =", x_intercept)
+print("Y-intercept =", y_intercept)
+    _____________________________________________
+    # Calculate slope and Euclidean distance
+
+x1, y1 = 2, 2
+x2, y2 = 6, 10
+
+# Calculate slope
+m = (y2 - y1) / (x2 - x1)
+
+# Calculate Euclidean distance
+distance = ((x2 - x1)**2 + (y2 - y1)**2)**0.5
+
+print("Slope =", m)
+print("Euclidean Distance =", distance)
