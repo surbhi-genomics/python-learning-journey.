@@ -1,0 +1,42 @@
+a=("""she is surbhi
+her age is 20
+pretty 
+cute""")
+print(a) #multiline
+   ________________________________________________________________________________________________________________________
+   a=("hellow world")
+print(len(a))
+
+  _________________________________________________________________________________________________________________________
+first_name = 'Asabeneh'
+last_name = 'Yetayeh'
+space = ' '
+full_name = first_name  +  space + last_name
+print(full_name) # Asabeneh Yetayeh
+# Checking the length of a string using len() built-in function
+print(len(first_name))  # 8
+print(len(last_name))   # 7
+print(len(first_name) > len(last_name)) # True
+print(len(full_name)) # 16
+   __________________________________________________________________________________________________________________________
+   a=("i m surbhi\n:surbhi yadav yes")
+print(a)
+   __________________________________________________________________________________________________________________________
+   \n: new line
+\t: Tab means(8 spaces)
+\\: Back slash
+\': Single quote (')
+\": Double quote (")
+  ___________________________________________________________________________________________________________________________
+  first_name = 'Asabeneh'
+last_name = 'Yetayeh'
+language = 'Python'
+formated_string = 'I am {} {}. I teach {}'.format(first_name, last_name, language)
+print(formated_string)
+a = 4
+b = 3
+  ___________________________________________________________________________________________________________________________
+greeting = 'Hello, World!'
+print(greeting[::-1]
+      _-------------''''-----------------------------------------------------------------------------------------------------
+      
