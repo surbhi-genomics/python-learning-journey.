@@ -1,0 +1,28 @@
+dog = {}
+print(dog)
+  __________________________________________________________________________________________________________________________
+ # Add name, color, breed, legs, age to the dog dictionary
+   dog = {}
+dog['name'] = 'tommy'
+dog['color'] = 'brown'
+dog['breed'] = 'German shepherd'
+dog['age'] = '12'
+print(dog)
+  ________________________________________________________________________________________________________________________
+  Create a student dictionary and add first_name, last_name, gender, age, marital 
+    status, skills, country, city and address as keys for the dictionary
+      student = {
+    'first_name': 'Rahul',
+    'last_name': 'Sharma',
+    'gender': 'Male',
+    'age': 20,
+    'marital_status': 'Single',
+    'skills': ['Python', 'HTML', 'Communication'],
+    'country': 'India',
+    'city': 'Delhi',
+    'address': 'Sector 15, Delhi'
+}
+_______________________________________________________________________________________________________________________
+  
+
+print(student)
