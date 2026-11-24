@@ -1,0 +1,19 @@
+Get user input using input(“Enter your age: ”). If user is 18 or older, give feedback: You are old enough to drive.
+  If below 18 give feedback to wait for the missing amount of years. 
+age =int(input("enter your age:"))
+if age >= 18:
+  print("you are old enough to drive")
+else:
+  print("wait for missing amount of years")
+_______________________________________________________________________________________________________________________
+  my_age=int(input("enter my age"))
+your_age=int(input("enter your age"))
+diff = (my_age - your_age)
+if my_age > your_age:
+   print("my_age")
+   if diff == 1 :
+      print("year")
+else:
+      print("years")
+  _____________________________________________________________________________________________________________________
+  
